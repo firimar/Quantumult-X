@@ -1,0 +1,30 @@
+{
+    "name": "Icons",
+    "description": "",
+    "icons": [
+        {
+            "name": "douban",
+            "url": "https://raw.githubusercontent.com/firimar/Quantumult-X/main/Icons/douban.png"
+        },
+        {
+            "name": "douban",
+            "url": "https://raw.githubusercontent.com/firimar/Quantumult-X/main/Icons/douban.svg"
+        },
+        {
+            "name": "duitang",
+            "url": "https://raw.githubusercontent.com/firimar/Quantumult-X/main/Icons/duitang.png"
+        },
+        {
+            "name": "duitang",
+            "url": "https://raw.githubusercontent.com/firimar/Quantumult-X/main/Icons/duitang.svg"
+        },
+        {
+            "name": "huaban",
+            "url": "https://raw.githubusercontent.com/firimar/Quantumult-X/main/Icons/huaban.png"
+        },
+        {
+            "name": "huaban",
+            "url": "https://raw.githubusercontent.com/firimar/Quantumult-X/main/Icons/huaban.svg"
+        }
+    ]
+}

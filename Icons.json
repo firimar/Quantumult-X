@@ -13,6 +13,10 @@
         {
             "name": "huaban",
             "url": "https://raw.githubusercontent.com/firimar/Quantumult-X/main/Icons/huaban.png"
+        },
+        {
+            "name": "cloudflare",
+            "url": "https://raw.githubusercontent.com/firimar/Quantumult-X/main/Icons/cloudflare.png"
         }
     ]
 }
